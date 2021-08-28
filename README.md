@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RumBulG
+- 👀 I’m interested in Coding, software creating and ethical hacking
+- 🌱 I’m currently learning how to make a discord bot
